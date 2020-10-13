@@ -1,4 +1,4 @@
-data = 'From sophiaisiswilliams@gmu.edu.gov Sat Jan 5 09:14:59 2008'
+data = 'From swill@jmu.edu.gov Sat Jan 5 09:14:59 2008'
 startpos = data.find('@') #find() tells you the index location of the string you are trying to locate
 print(startpos)
 
