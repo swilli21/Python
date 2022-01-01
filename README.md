@@ -1,5 +1,5 @@
-# A conglomerate of coding adventures
-## This page serves as a content run down of all functioning code and frame works.
+# A Conglomerate of Coding Adventures
+## Tables of Contents.
 ### Project 1
 
 ### Project 2
